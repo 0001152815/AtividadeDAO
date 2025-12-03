@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/AtividadeDAO.iml" filepath="$PROJECT_DIR$/AtividadeDAO.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/untitled.iml" filepath="$PROJECT_DIR$/untitled.iml" />
+>>>>>>> 66f2b4f (Adicionando a pasta de autenticação e criando a classe ProfessorSessao)
     </modules>
   </component>
 </project>
